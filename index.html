@@ -1,0 +1,119 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>From ubiquitous sensors to insights by ludwigschubert</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">From ubiquitous sensors to insights</h1>
+        <p class="header">Essay for my application to TUM's Master Program in Computer Science</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="https://github.com/ludwigschubert/tum-master-application/zipball/master">Download ZIP</a></li>
+          <li class="download"><a class="buttons" href="https://github.com/ludwigschubert/tum-master-application/tarball/master">Download TAR</a></li>
+          <li><a class="buttons github" href="https://github.com/ludwigschubert/tum-master-application">View On GitHub</a></li>
+        </ul>
+
+        <p class="header">This project is maintained by <a class="header name" href="https://github.com/ludwigschubert">ludwigschubert</a></p>
+
+
+      </header>
+      <section>
+        <p>Application to TUM's Master Program in Computer Science, Essay subject 2: <em>What is the impact of ubiquitous sensors and how does Informatics help to analyze the collected data?</em>
+This essay is written in Markdown. The body-only word count is 1014. References are given in [square brackets] and are listed at the end of the document.</p>
+
+<h1>From ubiquitous sensors to insights</h1>
+
+<h2>Towards the "Internet of Things"</h2>
+
+<p>Cheaper sensor prices, large-scale adoption of portable computing devices and a growing degree of interconnection between electronic devices cause a massive increase of produced data.[McKinsey] Today's vision of how this trend will culminate, the "Internet of Things", would mean a global network with vastly more participants than humans on earth. </p>
+
+<p>My scale uploading my weight to an online portal where my smartphone can use it during my runs[Withings] to calculate burned calories gives merely a humble preview of the interconnectedness we're facing.</p>
+
+<p>This unprecedented growth in required storage and processing capabilities poses a set of challenges for Informatics to overcome. Pure volume is the first unsolved problem.</p>
+
+<p>In fact, data volume is growing faster than storage volume; and since 2009 has surpassed available storage volume. [IDC, pp. 9–10] It's hard to overstate the paradigm shift this induces: we are literally running out of memory and processing power to cope with the onslaught of data.</p>
+
+<p>Additionally, organization, meaningful statistics, visualization, long-term storage, secure access and lack of structure &amp; comparability are equally problematic.</p>
+
+<h2>Informatics - Enabler &amp; Innovator</h2>
+
+<p>Informatics acts both as an enabler—by providing efficient algorithms and new data structures to deal with this increased amount of data—and as an innovator—by finding new use cases and computing meaningful results which extract value from those large amounts of data.</p>
+
+<h3>Enabler</h3>
+
+<p>Informatics can help programmers in dealing with those large amounts of data. </p>
+
+<p>Currently the only practical way of handling this data is parallel computing. Since parallel programming is inherently hard[McKenney], Informatics can assist developers by creating new programming languages, frameworks or models which abstract the parallelization layer away from them. Popular examples are the MapReduce programming model [MapReduce], Bigtable as an alternative to traditional relational database systems [Bigtable], and the key-value store Dynamo [Dynamo].</p>
+
+<p>But one can even observe new programming languages being created with built-in support for concurrency, enabling easy parallelization of code, like Google's Go. Since those new languages often build on older, pre-established concepts (in the case of go's concurrency support: Hoare's Communicating Sequential Processes) older languages that suit the concurrent programming styles are resurgent, such as Erlang. It originated in the late eighties, but today by web companies like Facebook and Wooga use it to support their massive user bases. Erlang offers language-level support for concurrency similar to the aforementioned Go.</p>
+
+<p>However, even the biggest data processing capability is by itself a means, not an end. To extract meaningful information even from condensed data it is often needed to visualize the results in a way that is approachable to humans. The last years saw an increase in the usage of data rich "info-graphics" in journalistic publications that is unlikely to wear off soon. The general increase in data driven decision-making in the industry will need even more visualization techniques and talent. This in turn will likely lead to a closer collaboration between designers and coders, or even new kinds of jobs with overlapping responsibilities. Rune Madsen, for example, already holds a graduate course called "printing code" for which he argues "during the last decade [the line between graphic design and programming] has obviously blurred, but not to the degree one would expect"[…]. I'm expecting this development to continue, especially outside the field of scientific visualization and towards more general data visualization for businesses. </p>
+
+<h3>Innovator</h3>
+
+<p>While a historic example, Google's Page Rank algorithm can in hindsight serve as an excellent example of a data-driven innovation. [Rajaraman] argues that the simple use of <em>more data</em>—as in "including anchor text of links linking to", in addition to "the content of" a website—was the pivotal improvement in search engine utility.</p>
+
+<p>Future startups and scientific applications can possibly make similar advancements by including data that hadn't been included previously into their datasets, or by not having to restrict big datasets at all. [Halevy] retells how an in-painting algorithm that performed poorly with a few thousand images in its training data set suddenly became very useful when researchers expanded said dataset by several orders of magnitude.</p>
+
+<p>In general it is much harder to predict Informatics' role as an innovator than as an enabler – after all, enough real world challenges already exists in which a better information distribution can improve performance. It is inherent to innovations to not be  predictable beforehand. However, one can extrapolate from current trends which areas computer scientist are currently studying intensively.</p>
+
+<p>Three subfields that readily come to (my) mind are Natural Language Processing, Artificial Intelligence and Cluster Computing. Both NLP and AI will profit greatly from the possible increase in data size and less selective data samples. Cluster Computing on the other hand is already rapidly advancing, as de-facto standards have emerged in the industry (e.g. Hadoop) that have already been surpassed hundredfold in speed by newer research projects. (e.g. UCB's Spark)</p>
+
+<p>Summing up, Informatics is at an exiting point in time now – for the first time, data management problems have grown so big that we literally can't fix them by increasing resources. We will have to find more advanced processes.</p>
+
+<h2>Conclusion</h2>
+
+<p>Like any new technological development in the past, Big Data starts out as an inherently value-neutral concept. Nuclear power comes to mind, mechanical printing, BitTorrent or even the Internet itself. But in the same way that BitTorrent leaves the decision to download widely available illegal content to its users, Big Data puts computer scientists in a position of social responsibility that most of us don't seem to realize. Constant surveillance by myriads of sensors and data collectors can just as easily restrict human freedom as it can enable it. But unlike programming models or tools for enabling large-scale data processing, I'm not aware of any kind of reusable concepts which informatics could offer to avoid such harmful usage. The moral judgement remains—as it has always been—in the hands of the individual developer.</p>
+
+<h1>References</h1>
+
+<p><em>References which have not been used in the text to back up statements have been used for general research and are still listed here.</em></p>
+
+<p>[IDC] IDC, “A Digital Universe Decade – Are You Ready?,” vol. 2009, no. Figure 1, 2010.</p>
+
+<p>[Bigtable] F. Chang, J. Dean, and S. Ghemawat, “Bigtable: A distributed storage system for structured data,” ACM Transactions on …, 2008.</p>
+
+<p>[McKenney] P. McKenney, M. Gupta, and M. Michael, “Is parallel programming hard, and if so, why?,” 2009.</p>
+
+<p>[Rajaraman] A. Rajaraman, “More data usually beats better algorithms,” 2008. [Online]. Available: <a href="http://anand.typepad.com/datawocky/2008/03/more-data-usual.html">http://anand.typepad.com/datawocky/2008/03/more-data-usual.html</a>. [Accessed: 18-Mar-2013].</p>
+
+<p>[Boyd] D. Boyd and K. Crawford, “Six provocations for big data,” pp. 1–17, 2011.</p>
+
+<p>[McKinsey] J. Manyika, M. Chui, B. Brown, and J. Bughin, “Big data: The next frontier for innovation, competition, and productivity,” McKinsey Global Institute, no. June, 2011.</p>
+
+<p>[Withings] “Withings Smart Body Analyzer + Runkeeper + Weightbot.” [Online]. Available: <a href="http://www.withings.com/en/bodyanalyzer">http://www.withings.com/en/bodyanalyzer</a>. [Accessed: 31-Mar-2013].</p>
+
+<p>[Dynamo] G. Decandia, D. Hastorun, M. Jampani, G. Kakulapati, A. Lakshman, A. Pilchin, S. Sivasubramanian, P. Vosshall, and W. Vogels, “Dynamo: amazon’s highly available key-value store,” ACM SIGOPS …, pp. 205–220, 2007.</p>
+
+<p>[MapReduce] J. Dean and S. Ghemawat, “MapReduce: simplified data processing on large clusters,” Communications of the ACM, pp. 1–13, 2008.</p>
+
+<p>[Ghemawat] S. Ghemawat, H. Gobioff, and S. Leung, “The Google file system,” ACM SIGOPS Operating Systems …, vol. 37, no. 5, p. 29, Dec. 2003.</p>
+
+<p>[Ma] Y. Ma, M. Richards, M. Ghanem, Y. Guo, and J. Hassard, “Air Pollution Monitoring and Mining Based on Sensor Grid in London,” Sensors, vol. 8, no. 6, pp. 3601–3623, Jun. 2008.</p>
+
+<p>[Halevy] A. Halevy, P. Norvig, and F. Pereira, “The Unreasonable Effectiveness of Data,” IEEE Intelligent Systems, vol. 24, no. 2, pp. 8–12, Mar. 2009.</p>
+
+<p>[Madsen] “Rune Madsen – Printing Code course description” [Online]. Available: <a href="http://runemadsen.com/printing-code">http://runemadsen.com/printing-code</a>. [Accessed: 01-Apr-2013].</p>
+
+<p>[Li] I. Li, “Personal informatics &amp; context: Using context to reveal factors that affect behavior,” Journal of Ambient Intelligence and Smart …, no. August, 2012.</p>
+      </section>
+      <footer>
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>
