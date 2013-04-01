@@ -1,3 +1,5 @@
+% Better viewed at http://bit.ly/tum-master
+
 % From ubiquitous sensors to insights
 % Ludwig Schubert
 % March 24, 2013
@@ -54,16 +56,29 @@ Like any new technological development in the past, Big Data starts out as an in
 *References which have not been used in the text to back up statements have been used for general research and are still listed here.*
 
 [IDC] IDC, “A Digital Universe Decade – Are You Ready?,” vol. 2009, no. Figure 1, 2010.
+
 [Bigtable] F. Chang, J. Dean, and S. Ghemawat, “Bigtable: A distributed storage system for structured data,” ACM Transactions on …, 2008.
+
 [McKenney] P. McKenney, M. Gupta, and M. Michael, “Is parallel programming hard, and if so, why?,” 2009.
+
 [Rajaraman] A. Rajaraman, “More data usually beats better algorithms,” 2008. [Online]. Available: http://anand.typepad.com/datawocky/2008/03/more-data-usual.html. [Accessed: 18-Mar-2013].
+
 [Boyd] D. Boyd and K. Crawford, “Six provocations for big data,” pp. 1–17, 2011.
+
 [McKinsey] J. Manyika, M. Chui, B. Brown, and J. Bughin, “Big data: The next frontier for innovation, competition, and productivity,” McKinsey Global Institute, no. June, 2011.
+
 [Withings] “Withings Smart Body Analyzer + Runkeeper + Weightbot.” [Online]. Available: http://www.withings.com/en/bodyanalyzer. [Accessed: 31-Mar-2013].
+
 [Dynamo] G. Decandia, D. Hastorun, M. Jampani, G. Kakulapati, A. Lakshman, A. Pilchin, S. Sivasubramanian, P. Vosshall, and W. Vogels, “Dynamo: amazon’s highly available key-value store,” ACM SIGOPS …, pp. 205–220, 2007.
+
 [MapReduce] J. Dean and S. Ghemawat, “MapReduce: simplified data processing on large clusters,” Communications of the ACM, pp. 1–13, 2008.
+
 [Ghemawat] S. Ghemawat, H. Gobioff, and S. Leung, “The Google file system,” ACM SIGOPS Operating Systems …, vol. 37, no. 5, p. 29, Dec. 2003.
+
 [Ma] Y. Ma, M. Richards, M. Ghanem, Y. Guo, and J. Hassard, “Air Pollution Monitoring and Mining Based on Sensor Grid in London,” Sensors, vol. 8, no. 6, pp. 3601–3623, Jun. 2008.
+
 [Halevy] A. Halevy, P. Norvig, and F. Pereira, “The Unreasonable Effectiveness of Data,” IEEE Intelligent Systems, vol. 24, no. 2, pp. 8–12, Mar. 2009.
+
 [Madsen] “Rune Madsen – Printing Code course description” [Online]. Available: http://runemadsen.com/printing-code. [Accessed: 01-Apr-2013].
+
 [Li] I. Li, “Personal informatics & context: Using context to reveal factors that affect behavior,” Journal of Ambient Intelligence and Smart …, no. August, 2012.

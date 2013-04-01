@@ -1,0 +1,9 @@
+Schon während meines Frühstudiums der Informatik traf ich für mich zwei Entscheidungen:
+Informatik zu studieren und Informatik an der TUM zu studieren.
+
+Von einem Informatikstudium erwarte ich mir einen spannenden, zukunftsorientierten Studiengang – meine Erfahrungen im Bachelorstudiengang überzeugten mich davon, dass ich mit Informatik mein größtes Hobby zu meinem Beruf machen kann. Die gute Zusammenarbeit mit Professoren der TU hat mich immer sehr erfreut. So konnte ich in verschiedenen Ferienakademien und Sommerschulen z.B. in St. Petersburg feststellen, dass ich auch persönlich von den Erfahrungen meiner Professoren profitieren kann. Ich habe es sicher Prof. Bruegge zu verdanken bereits im Bachelor an seinem Lehrstuhl an einem peer-reviewed paper mitschreiben zu können.
+Das der Beruf gute Zukunftsaussichten mit sich bringt und sehr ordentliche Verdienstmöglichkeiten bietet war zwar für die Entscheidung nicht ausschlaggebend, aber doch sehr beruhigend zu wissen und bestärkte mich so in meinem Entschluss.
+
+Die Frage nach der Universität war für mich recht schnell geklärt: die lockere, freundliche Atmosphäre mit der wir Schüler bei Ihnen sowohl von Tutoren und Professoren, wie auch von Mitstudenten empfangen worden sind, hat mir sehr zugesagt. Das Ansehen der Universität und Beurteilungen bei Hochschulrankings tun ihr übriges. Für mich von persönlichem Interesse ist auch das Selbstverständnis der TUM als "unternehmerische Universität". Ich studiere nebenbei im Elitestudiengang Technologie-Management am CDTM, was ich für eine wunderbare Einrichtung der TU (und LMU) halte.
+In meinem Auslandssemester in Kalifornien und auch in Deutschland mit Freunden konnte ich andere Universitäten kennen lernen, aber für mich ist die TUM immer noch eine gute Wahl, die ich nicht bereue.
+Ich hoffe ab dem Wintersemester mein Studium an der TUM weiterführen zu können!
