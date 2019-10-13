@@ -1,5 +1,5 @@
-% From ubiquitous sensors to insights
-% Ludwig Schubert
-% March 24, 2013
+This repository contains a 2014 essay to apply for a master's degree program in Computer Science at Technische Universität München (TUM). I am not particularly proud of this essay, nor do I still agree with everything I wrote in it. I am leaving it online as I have repeatedly received feedback that it is a helpful example.
 
-Application to TUM's Master Program in Computer Science, Essay subject 2: *What is the impact of ubiquitous sensors and how does Informatics help to analyze the collected data?*
+While I was admitted, please keep in mind that I had completed my undergrad at TUM, which likely helped my admission chances. Don’t think this essay is a perfect example of what was expected. I did not start my master’s at TUM, so I can’t answer any questions about the program. I’m not even sure they still ask for an essay!
+
+I loved TUM as an undergrad, so I can empathize with everyone’s enthusiasm about getting in. Please keep in mind that applications are always a little stochastic, so do not apply to just a single university if you don’t have a backup plan. I wish you the best of luck with _your_ academic applications!
